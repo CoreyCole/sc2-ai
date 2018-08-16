@@ -136,3 +136,19 @@ CYBERNETICSCORE, STARGATE, VOIDRAY'''
 - use grayscale instead of color for intel image
 # [Part 14](https://www.youtube.com/watch?v=81JULbBnv0A)
 - improving scouting
+- putting obs on every expansion
+- scouting with 1 probe at a time until getting obs
+# [Part 15](https://www.youtube.com/watch?v=eOv1aPRE1jo&index=15&list=PLQVvvaa0QuDcT3tPehHdisGMc8TInNqdq)
+- random 14 choices
+# [Part 16](https://www.youtube.com/watch?v=6N1bsDNAIB8&list=PLQVvvaa0QuDcT3tPehHdisGMc8TInNqdq&index=16)
+- vizualization changes
+- gray scale, opponent darker
+- radius not fill
+- asking to figure out alpha
+# [Part 17](https://www.youtube.com/watch?v=oi6QBUZUgbc&index=17&list=PLQVvvaa0QuDcT3tPehHdisGMc8TInNqdq)
+- results from training the model
+- he is randomly choosing when to build workers
+  - instead, we should randomly decide at the beginning at what worker count to stop at for some amount of time
+  - all workers or all units (works well for zerg)
+- looking at tensor boards
+- not beating random with model
